@@ -1,4 +1,4 @@
-Easer [![Build Status](https://travis-ci.org/renyuneyun/Easer.svg?branch=master)](https://travis-ci.org/renyuneyun/Easer) [![weblate](https://hosted.weblate.org/widgets/easer/-/svg-badge.svg)](https://hosted.weblate.org/engage/easer/?utm_source=widget) [![codecov](https://codecov.io/gh/renyuneyun/Easer/branch/master/graph/badge.svg)](https://codecov.io/gh/renyuneyun/Easer) [![matrix-chat](https://matrix.to/img/matrix-badge.svg)](https://matrix.to/#/#Easer:matrix.org)  [ ![Download](https://api.bintray.com/packages/renyuneyun/Android/Easer/images/download.svg) ](https://bintray.com/renyuneyun/Android/Easer/_latestVersion) 
+Easer [![Backers on Open Collective](https://opencollective.com/Easer/backers/badge.svg)](#backers) [![Sponsors on Open Collective](https://opencollective.com/Easer/sponsors/badge.svg)](#sponsors) [![Build Status](https://travis-ci.org/renyuneyun/Easer.svg?branch=master)](https://travis-ci.org/renyuneyun/Easer) [![weblate](https://hosted.weblate.org/widgets/easer/-/svg-badge.svg)](https://hosted.weblate.org/engage/easer/?utm_source=widget) [![codecov](https://codecov.io/gh/renyuneyun/Easer/branch/master/graph/badge.svg)](https://codecov.io/gh/renyuneyun/Easer) [![matrix-chat](https://matrix.to/img/matrix-badge.svg)](https://matrix.to/#/#Easer:matrix.org)  [ ![Download](https://api.bintray.com/packages/renyuneyun/Android/Easer/images/download.svg) ](https://bintray.com/renyuneyun/Android/Easer/_latestVersion) 
 =======
 [<img src="https://f-droid.org/badge/get-it-on-zh-cn.png"
       alt="Get it on F-Droid"
@@ -86,3 +86,33 @@ Easer的期望功能中包含大量對隱私信息（比如位置信息、日曆
 * [GraphView](https://github.com/Team-Blox/GraphView): Apache License v2
 
 * 以`*-fa-*`命名的drawable文件均來自[fontawesome](https://fontawesome.com/): CC-BY 4.0
+
+## Contributors
+
+This project exists thanks to all the people who contribute. 
+<a href="https://github.com/renyuneyun/Easer/graphs/contributors"><img src="https://opencollective.com/Easer/contributors.svg?width=890&button=false" /></a>
+
+
+## Backers
+
+Thank you to all our backers! 🙏 [[Become a backer](https://opencollective.com/Easer#backer)]
+
+<a href="https://opencollective.com/Easer#backers" target="_blank"><img src="https://opencollective.com/Easer/backers.svg?width=890"></a>
+
+
+## Sponsors
+
+Support this project by becoming a sponsor. Your logo will show up here with a link to your website. [[Become a sponsor](https://opencollective.com/Easer#sponsor)]
+
+<a href="https://opencollective.com/Easer/sponsor/0/website" target="_blank"><img src="https://opencollective.com/Easer/sponsor/0/avatar.svg"></a>
+<a href="https://opencollective.com/Easer/sponsor/1/website" target="_blank"><img src="https://opencollective.com/Easer/sponsor/1/avatar.svg"></a>
+<a href="https://opencollective.com/Easer/sponsor/2/website" target="_blank"><img src="https://opencollective.com/Easer/sponsor/2/avatar.svg"></a>
+<a href="https://opencollective.com/Easer/sponsor/3/website" target="_blank"><img src="https://opencollective.com/Easer/sponsor/3/avatar.svg"></a>
+<a href="https://opencollective.com/Easer/sponsor/4/website" target="_blank"><img src="https://opencollective.com/Easer/sponsor/4/avatar.svg"></a>
+<a href="https://opencollective.com/Easer/sponsor/5/website" target="_blank"><img src="https://opencollective.com/Easer/sponsor/5/avatar.svg"></a>
+<a href="https://opencollective.com/Easer/sponsor/6/website" target="_blank"><img src="https://opencollective.com/Easer/sponsor/6/avatar.svg"></a>
+<a href="https://opencollective.com/Easer/sponsor/7/website" target="_blank"><img src="https://opencollective.com/Easer/sponsor/7/avatar.svg"></a>
+<a href="https://opencollective.com/Easer/sponsor/8/website" target="_blank"><img src="https://opencollective.com/Easer/sponsor/8/avatar.svg"></a>
+<a href="https://opencollective.com/Easer/sponsor/9/website" target="_blank"><img src="https://opencollective.com/Easer/sponsor/9/avatar.svg"></a>
+
+
